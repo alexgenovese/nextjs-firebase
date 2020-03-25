@@ -3,7 +3,7 @@
   "description": "Next.js SSR React on Firebase Hosting with Cloud Functions",
   "version": "1.0.0",
   "author": "Alex Genovese",
-  "main": "dist/server/index.js",
+  "main": "src/server/index.js",
   "license": "MIT",
   "scripts": {
     "setup": "yarn firebase use --add",
